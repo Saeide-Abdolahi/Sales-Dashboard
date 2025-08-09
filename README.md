@@ -35,6 +35,7 @@ The dataset contains Nike's US sales transactions with the following columns:
 ## 🚀 How to Run Locally
   Clone this repository  
    ```bash
+https://github.com/Saeide-Abdolahi/Sales-Dashboard/blob/main/NikeDashboard.ipynb
 
 pip install -r requirements.txt
 
